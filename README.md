@@ -1,4 +1,4 @@
-#Default HTML Elements
+Default HTML Elements
 ======================
 
 As many semantic, stylistic HTML elements as possible, labelled and explained with sample code. 
@@ -13,7 +13,7 @@ which has only the necessary semantic defaults for legibility and usability.
 [A visual sample of this content can be viewed online](http://jhogue.dev.oomphcloud.com/scaffold/sample.html).
 
 
-##Dependencies
+#Dependencies
 
 [Modernizr](http://modernizr.com) custom-build for `touch-event` detection, required by anchor link 
 style declarations. 
