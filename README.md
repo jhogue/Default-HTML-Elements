@@ -10,7 +10,7 @@ styles in one place.
 The very basic CSS present here comes from [Oomph’s Scaffold](https://github.com/oomphinc/scss-scaffold), 
 which has only the necessary semantic defaults for legibility and usability. 
 
-[A visual sample of this content can be viewed online](http://jhogue.dev.oomphcloud.com/scaffold/sample.html).
+[A visual sample of this content can be viewed online](http://github.highchairdesign.com/default-html/).
 
 
 # Dependencies
